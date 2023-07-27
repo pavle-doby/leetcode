@@ -2,24 +2,19 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var productExceptSelf = function(nums) {
-    let n = nums.length;
-    const arrAllPrev = Array(n);
-    const arrAllAfter = Array(n);
-    
-    // `arrAllPrev[i]` value is represening product of all elements before `i`
-    arrAllPrev[0] = 1
-    for(let i = 1; i < n; i ++) {
-        arrAllPrev[i] = nums[i - 1] * arrAllPrev[i - 1];
-    }
-    
-    // `arrAllAfter[i]` value is represening product of all elements after `i`
-    arrAllAfter[n - 1] = 1;
-    for(let i = n - 2; i >= 0; i--) {
-        arrAllAfter[i] = nums[i + 1] * arrAllAfter[i + 1];
-        // final value
-        arrAllPrev[i] = arrAllPrev[i] * arrAllAfter[i];
-    }
+function productExceptSelf(nums) {
+  const prefix = new Array(nums.length);
+  const suffix = new Array(nums.length);
 
-    return arrAllPrev;
-};
+  for (let i = 0, j = nums.length - 1; i < nums.length; i++, j--) {
+    prefix[i] = (prefix[i - 1] ?? 1) * nums[i];
+    suffix[j] = (suffix[j + 1] ?? 1) * nums[j];
+  }
+
+  const out = new Array(nums.length);
+  for (let i = 0; i < nums.length; i++) {
+    out[i] = (prefix[i - 1] ?? 1) * (suffix[i + 1] ?? 1);
+  }
+
+  return out;
+}
