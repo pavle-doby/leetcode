@@ -4,7 +4,8 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function (nums, target) {
+ // quicker alg
+function twoSum(nums, target) {
     const dict = {};
     let diff;
     for(let i = 0; i < nums.length; i++) {
@@ -15,3 +16,16 @@ var twoSum = function (nums, target) {
         dict[nums[i]] = i;
     }
  };
+
+// better memory complexity
+// function twoSum(nums, target) {
+//     let diff, j;
+//     for(let i = 0; i < nums.length; i++) {
+//         diff = target - nums[i];
+//         j = nums.indexOf(diff, i + 1);
+//         if(j !== -1) {
+//             return [i, j]
+//         }
+//     }
+// }
+
