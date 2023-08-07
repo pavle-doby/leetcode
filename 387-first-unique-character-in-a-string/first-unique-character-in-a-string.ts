@@ -1,15 +1,16 @@
 function firstUniqChar(str: string): number {
-    const set = new Set<string>();
-
+    const map = new Map<string, { count: number, index: number}>();
     for(let i = 0; i < str.length; i++) {
-        if(set.has(str[i])) {
-            continue;
-        }
-
-        if(str.indexOf(str[i], i + 1) === -1) {
-            return i;
+        if(map.has(str[i])) {
+            map.get(str[i]).count += 1;
         } else {
-            set.add(str[i])
+            map.set(str[i], {count: 1, index: i});
+        }
+    }
+
+    for(const freqObj of map.values()) {
+        if(freqObj.count === 1) {
+            return freqObj.index;
         }
     }
 
