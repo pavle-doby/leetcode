@@ -1,4 +1,4 @@
-// Time: 49 ms (beats: 89.45%) | Memory: 42.9 MB (beats: 9.60%) | 28 - Find the Index of the First Occurrence in a String
+// Time: 49 ms (beats: 89.45%) | Memory: 42.9 MB (beats: 9.60%) | 28. Find the Index of the First Occurrence in a String
 
 /**
  * @param {string} haystack
