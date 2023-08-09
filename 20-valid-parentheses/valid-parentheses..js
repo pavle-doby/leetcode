@@ -1,4 +1,4 @@
-// Time: 68 ms (beats: 32.73%) | Memory: 42.7 MB (beats: 34.62%) | 20 - Valid Parentheses
+// Time: 68 ms (beats: 32.73%) | Memory: 42.7 MB (beats: 34.62%) | 20. Valid Parentheses
 
 /**
  * @param {string} s
