@@ -1,4 +1,4 @@
-// Time: 55 ms (beats: 78.80%) | Memory: 42.4 MB (beats: 83.48%) | 22 - Generate Parentheses
+// Time: 55 ms (beats: 78.80%) | Memory: 42.4 MB (beats: 83.48%) | 22. Generate Parentheses
 
 /**
  * @param {number} n
