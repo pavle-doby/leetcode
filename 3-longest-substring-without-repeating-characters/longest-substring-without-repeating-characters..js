@@ -1,4 +1,4 @@
-// Time: 264 ms (beats: 20.25%) | Memory: 49.5 MB (beats: 17.79%) | 3 - Longest Substring Without Repeating Characters
+// Time: 264 ms (beats: 20.25%) | Memory: 49.5 MB (beats: 17.79%) | 3. Longest Substring Without Repeating Characters
 
 /**
  * @param {string} s
