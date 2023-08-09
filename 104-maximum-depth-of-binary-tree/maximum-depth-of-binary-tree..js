@@ -1,4 +1,4 @@
-// Time: 62 ms (beats: 77.86%) | Memory: 47.1 MB (beats: 5.11%) | 104 - Maximum Depth of Binary Tree
+// Time: 62 ms (beats: 77.86%) | Memory: 47.1 MB (beats: 5.11%) | 104. Maximum Depth of Binary Tree
 
 // /**
 //  * Definition for a binary tree node.
