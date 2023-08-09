@@ -1,4 +1,4 @@
-// Time: 37 ms (beats: 99.97%) | Memory: 44.6 MB (beats: 18.33%) | 206 - Reverse Linked List
+// Time: 37 ms (beats: 99.97%) | Memory: 44.6 MB (beats: 18.33%) | 206. Reverse Linked List
 
 /**
  * Definition for singly-linked list.
