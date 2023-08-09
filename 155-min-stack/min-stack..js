@@ -1,4 +1,4 @@
-// Time: 106 ms (beats: 50.73%) | Memory: 49.3 MB (beats: 78.98%) | 155 - Min Stack
+// Time: 106 ms (beats: 50.73%) | Memory: 49.3 MB (beats: 78.98%) | 155. Min Stack
 
 class MinStack {
     constructor() {
