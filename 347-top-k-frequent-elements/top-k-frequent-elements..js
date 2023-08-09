@@ -1,4 +1,4 @@
-// Time: 55 ms (beats: 98.65%) | Memory: 44.5 MB (beats: 89.95%) | 347 - Top K Frequent Elements
+// Time: 55 ms (beats: 98.65%) | Memory: 44.5 MB (beats: 89.95%) | 347. Top K Frequent Elements
 
 /**
  * @param {number[]} nums
