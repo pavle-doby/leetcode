@@ -1,4 +1,4 @@
-// Time: 61 ms (beats: 55.33%) | Memory: 43.1 MB (beats: 64.44%) | 19 - Remove Nth Node From End of List
+// Time: 61 ms (beats: 55.33%) | Memory: 43.1 MB (beats: 64.44%) | 19. Remove Nth Node From End of List
 
 /**
  * Definition for singly-linked list.
