@@ -1,4 +1,4 @@
-// Time: 53 ms (beats: 72.80%) | Memory: 41.8 MB (beats: 82.29%) | 74 - Search a 2D Matrix
+// Time: 53 ms (beats: 72.80%) | Memory: 41.8 MB (beats: 82.29%) | 74. Search a 2D Matrix
 
 /**
  * @param {number[][]} matrix
