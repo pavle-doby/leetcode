@@ -1,4 +1,4 @@
-// Time: 45 ms (beats: 97.96%) | Memory: 41.4 MB (beats: 98.41%) | 953 - Reverse Only Letters
+// Time: 45 ms (beats: 97.96%) | Memory: 41.4 MB (beats: 98.41%) | 953. Reverse Only Letters
 
 /**
  * @param {string} s
