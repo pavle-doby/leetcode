@@ -1,4 +1,4 @@
-// Time: 56 ms (beats: 57.73%) | Memory: 42.1 MB (beats: 29.36%) | 54 - Spiral Matrix
+// Time: 56 ms (beats: 57.73%) | Memory: 42.1 MB (beats: 29.36%) | 54. Spiral Matrix
 
 function takeRowToRight(matrix) {
     if(!matrix.length) {
