@@ -1,4 +1,4 @@
-// Time: 54 ms (beats: 88.99%) | Memory: 45.5 MB (beats: 13.99%) | 792 - Binary Search
+// Time: 54 ms (beats: 88.99%) | Memory: 45.5 MB (beats: 13.99%) | 792. Binary Search
 
 /**
  * @param {number[]} nums
