@@ -1,4 +1,4 @@
-// Time: 62 ms (beats: 51.56%) | Memory: 44.6 MB (beats: 8.39%) | 14 - Longest Common Prefix
+// Time: 62 ms (beats: 51.56%) | Memory: 44.6 MB (beats: 8.39%) | 14. Longest Common Prefix
 
 /**
  * @param {string[]} strs
