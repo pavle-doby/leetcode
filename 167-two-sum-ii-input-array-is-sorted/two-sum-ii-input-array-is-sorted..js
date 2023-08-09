@@ -1,4 +1,4 @@
-// Time: 68 ms (beats: 31.52%) | Memory: 42.6 MB (beats: 79.71%) | 167 - Two Sum II - Input Array Is Sorted
+// Time: 68 ms (beats: 31.52%) | Memory: 42.6 MB (beats: 79.71%) | 167. Two Sum II - Input Array Is Sorted
 
 /**
  * @param {number[]} numbers
