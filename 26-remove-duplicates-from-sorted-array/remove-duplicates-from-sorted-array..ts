@@ -1,4 +1,4 @@
-// Time: 68 ms (beats: 83.32%) | Memory: 45.8 MB (beats: 32.26%) | 26 - Remove Duplicates from Sorted Array
+// Time: 68 ms (beats: 83.32%) | Memory: 45.8 MB (beats: 32.26%) | 26. Remove Duplicates from Sorted Array
 
 // 
 function removeDuplicates(nums: number[]): number {
