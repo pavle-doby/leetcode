@@ -1,4 +1,4 @@
-// Time: 46 ms (beats: 99.33%) | Memory: 42.9 MB (beats: 36.70%) | 1 - Two Sum
+// Time: 46 ms (beats: 99.33%) | Memory: 42.9 MB (beats: 36.70%) | 1. Two Sum
 
 /**
  * [1,2,3,2]
