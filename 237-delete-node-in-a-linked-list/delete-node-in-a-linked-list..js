@@ -1,4 +1,4 @@
-// Time: 60 ms (beats: 80.23%) | Memory: 43.8 MB (beats: 85.20%) | 237 - Delete Node in a Linked List
+// Time: 60 ms (beats: 80.23%) | Memory: 43.8 MB (beats: 85.20%) | 237. Delete Node in a Linked List
 
 /**
  * Definition for singly-linked list.
