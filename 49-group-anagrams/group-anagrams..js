@@ -1,4 +1,4 @@
-// Time: 116 ms (beats: 81.70%) | Memory: 51.6 MB (beats: 99.05%) | 49 - Group Anagrams
+// Time: 116 ms (beats: 81.70%) | Memory: 51.6 MB (beats: 99.05%) | 49. Group Anagrams
 
 /**
  * @param {string[]} strs
