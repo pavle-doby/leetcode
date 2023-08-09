@@ -1,4 +1,4 @@
-// Time: 94 ms (beats: 82.03%) | Memory: 55.7 MB (beats: 28.77%) | 238 - Product of Array Except Self
+// Time: 94 ms (beats: 82.03%) | Memory: 55.7 MB (beats: 28.77%) | 238. Product of Array Except Self
 
 /**
  * @param {number[]} nums
