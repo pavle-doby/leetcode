@@ -2,4 +2,4 @@
 
 My LeetCode solutions
 
-> You can also checkout my profile: https://leetcode.com/pavle-doby/
+> You can also check out my profile: https://leetcode.com/pavle-doby/
