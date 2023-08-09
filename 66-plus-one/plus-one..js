@@ -1,4 +1,4 @@
-// Time: 51 ms (beats: 85.60%) | Memory: 42 MB (beats: 49.11%) | 66 - Plus One
+// Time: 51 ms (beats: 85.60%) | Memory: 42 MB (beats: 49.11%) | 66. Plus One
 
 /**
  * @param {number[]} digits
