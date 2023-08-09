@@ -1,4 +1,4 @@
-// Time: 67 ms (beats: 75.36%) | Memory: 44.1 MB (beats: 87.42%) | 125 - Valid Palindrome
+// Time: 67 ms (beats: 75.36%) | Memory: 44.1 MB (beats: 87.42%) | 125. Valid Palindrome
 
 /**
  * @param {string} s
