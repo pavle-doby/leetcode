@@ -1,4 +1,4 @@
-// Time: 74 ms (beats: 95.38%) | Memory: 53.9 MB (beats: 58.91%) | 217 - Contains Duplicate
+// Time: 74 ms (beats: 95.38%) | Memory: 53.9 MB (beats: 58.91%) | 217. Contains Duplicate
 
 /**
  * @param {number[]} nums
