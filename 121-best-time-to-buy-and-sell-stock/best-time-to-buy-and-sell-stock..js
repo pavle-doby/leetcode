@@ -1,4 +1,4 @@
-// Time: 63 ms (beats: 97.91%) | Memory: 51.6 MB (beats: 63.67%) | 121 - Best Time to Buy and Sell Stock
+// Time: 63 ms (beats: 97.91%) | Memory: 51.6 MB (beats: 63.67%) | 121. Best Time to Buy and Sell Stock
 
 /**
  * @param {number[]} prices
