@@ -1,4 +1,4 @@
-// Time: 7803 ms (beats: 5.05%) | Memory: 66 MB (beats: 65.60%) | 739 - Daily Temperatures
+// Time: 7803 ms (beats: 5.05%) | Memory: 66 MB (beats: 65.60%) | 739. Daily Temperatures
 
 /**
  * @param {number[]} temperatures
