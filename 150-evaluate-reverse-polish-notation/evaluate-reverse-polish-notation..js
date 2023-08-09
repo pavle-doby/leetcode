@@ -1,4 +1,4 @@
-// Time: 58 ms (beats: 91.15%) | Memory: 44.3 MB (beats: 92.09%) | 150 - Evaluate Reverse Polish Notation
+// Time: 58 ms (beats: 91.15%) | Memory: 44.3 MB (beats: 92.09%) | 150. Evaluate Reverse Polish Notation
 
 /**
  * @param {string[]} tokens
