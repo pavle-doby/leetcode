@@ -1,4 +1,4 @@
-// Time: 59 ms (beats: 99.69%) | Memory: 45.5 MB (beats: 86.25%) | 387 - First Unique Character in a String
+// Time: 59 ms (beats: 99.69%) | Memory: 45.5 MB (beats: 86.25%) | 387. First Unique Character in a String
 
 function firstUniqChar(str: string): number {
     const set = new Set<string>();
