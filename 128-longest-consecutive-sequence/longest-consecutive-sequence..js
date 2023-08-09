@@ -1,4 +1,4 @@
-// Time: 114 ms (beats: 73.48%) | Memory: 62.5 MB (beats: 71.47%) | 128 - Longest Consecutive Sequence
+// Time: 114 ms (beats: 73.48%) | Memory: 62.5 MB (beats: 71.47%) | 128. Longest Consecutive Sequence
 
 /**
  * @param {number[]} nums
