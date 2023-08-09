@@ -1,4 +1,4 @@
-// Time: 65 ms (beats: 92.74%) | Memory: 42.1 MB (beats: 96.20%) | 242 - Valid Anagram
+// Time: 65 ms (beats: 92.74%) | Memory: 42.1 MB (beats: 96.20%) | 242. Valid Anagram
 
 /**
  * @param {string} s
