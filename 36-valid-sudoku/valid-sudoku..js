@@ -1,4 +1,4 @@
-// Time: 70 ms (beats: 74.67%) | Memory: 48.8 MB (beats: 13.74%) | 36 - Valid Sudoku
+// Time: 70 ms (beats: 74.67%) | Memory: 48.8 MB (beats: 13.74%) | 36. Valid Sudoku
 
 const boxStartDict = {
     0: [0,0],
