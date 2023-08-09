@@ -1,4 +1,4 @@
-// Time: 53 ms (beats: 92.63%) | Memory: 46.6 MB (beats: 5.12%) | 350 - Intersection of Two Arrays II
+// Time: 53 ms (beats: 92.63%) | Memory: 46.6 MB (beats: 5.12%) | 350. Intersection of Two Arrays II
 
 /**
  * @param {number[]} nums1
