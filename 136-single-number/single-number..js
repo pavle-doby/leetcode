@@ -1,4 +1,4 @@
-// Time: 47 ms (beats: 98.96%) | Memory: 46.9 MB (beats: 31.24%) | 136 - Single Number
+// Time: 47 ms (beats: 98.96%) | Memory: 46.9 MB (beats: 31.24%) | 136. Single Number
 
 /**
  * @param {number[]} nums
