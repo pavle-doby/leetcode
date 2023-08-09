@@ -1,5 +1,5 @@
 # LeetCode 
 
-> My LeetCode solutions
+My LeetCode solutions
 
-### Sync is WIP but you can check my profile: https://leetcode.com/pavle-doby/
+> You can also checkout my profile: https://leetcode.com/pavle-doby/
