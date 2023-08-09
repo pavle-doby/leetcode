@@ -1,4 +1,4 @@
-// Time: 88 ms (beats: 60.08%) | Memory: 46.5 MB (beats: 71.18%) | 283 - Move Zeroes
+// Time: 88 ms (beats: 60.08%) | Memory: 46.5 MB (beats: 71.18%) | 283. Move Zeroes
 
 /**
  * @param {number[]} nums
